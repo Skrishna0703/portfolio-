@@ -1,0 +1,10 @@
+{
+  "description": "Explore developer Shrikrishna Sutar’s portfolio of full-stack and AI projects, skills, education, achievements, and experience for recruiters and collaborators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
